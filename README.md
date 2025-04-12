@@ -1,5 +1,5 @@
 # picodav
-Forked from picodav officinal.
+Forked and fixed from picodav officinal.
 
 Use PHP and deploy as a service.
 
